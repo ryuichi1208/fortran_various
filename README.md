@@ -1,4 +1,4 @@
-# fortran_various-
+# fortran_variou
 I tried implementing various IO with fortrun
 
 # Overview
